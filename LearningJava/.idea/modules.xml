@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccountA/AccountA.iml" filepath="$PROJECT_DIR$/AccountA/AccountA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccountBuchalka/AccountBuchalka.iml" filepath="$PROJECT_DIR$/AccountBuchalka/AccountBuchalka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeanMachine/BeanMachine.iml" filepath="$PROJECT_DIR$/BeanMachine/BeanMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Examples.iml" filepath="$PROJECT_DIR$/Examples/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeometricObject/GeometricObject.iml" filepath="$PROJECT_DIR$/GeometricObject/GeometricObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hamburger/Hamburger.iml" filepath="$PROJECT_DIR$/Hamburger/Hamburger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnDebugging/LearnDebugging.iml" filepath="$PROJECT_DIR$/LearnDebugging/LearnDebugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJava.iml" filepath="$PROJECT_DIR$/LearningJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oblig5/Oblig5.iml" filepath="$PROJECT_DIR$/Oblig5/Oblig5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Vehicle/Vehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehiclePart4/VehiclePart4.iml" filepath="$PROJECT_DIR$/VehiclePart4/VehiclePart4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obligResource/obligResource.iml" filepath="$PROJECT_DIR$/obligResource/obligResource.iml" />
+    </modules>
+  </component>
+</project>

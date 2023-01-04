@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaVehicle.iml" filepath="$PROJECT_DIR$/.idea/JavaVehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Vehicle/Vehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleDel3and4/VehicleDel3and4.iml" filepath="$PROJECT_DIR$/VehicleDel3and4/VehicleDel3and4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleProject/VehicleProject.iml" filepath="$PROJECT_DIR$/VehicleProject/VehicleProject.iml" />
+    </modules>
+  </component>
+</project>
